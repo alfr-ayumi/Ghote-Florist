@@ -1,0 +1,282 @@
+[
+  {
+    "id": "bbu-001",
+    "nama": "Buket Bunga - Pink Harmony",
+    "harga": 120000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBu_-_Pink_Harmony_gqynpm",
+    "kategori": "Buket Bunga"
+  },
+  {
+    "id": "bbu-002",
+    "nama": "Buket Bunga - Floral Dream",
+    "harga": 85000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBu_-_Floral_Dream_vblvzy",
+    "kategori": "Buket Bunga"
+  },
+  {
+    "id": "bbu-003",
+    "nama": "Buket Bunga - Black Heaven",
+    "harga": 50000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBu_-_Black_Heaven_xgza0k",
+    "kategori": "Buket Bunga"
+  },
+  {
+    "id": "bbu-004",
+    "nama": "Buket Bunga - Rosy Spark",
+    "harga": 95000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBu_-_Rosy_Spark_wa5bx7",
+    "kategori": "Buket Bunga"
+  },
+  {
+    "id": "bbu-005",
+    "nama": "Buket Bunga - Frozen Delight",
+    "harga": 80000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBu_-_Frozen_Delight_tesqpt",
+    "kategori": "Buket Bunga"
+  },
+  {
+    "id": "bbu-006",
+    "nama": "Buket Bunga - Peach Blossom",
+    "harga": 50000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBu_-_Peach_Blossom_nq599z",
+    "kategori": "Buket Bunga"
+  },
+  {
+    "id": "bbu-007",
+    "nama": "Buket Bunga - Phantom Fantasy",
+    "harga": 75000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBu_-_Phantom_Fantasy_eklw6a",
+    "kategori": "Buket Bunga"
+  },
+  {
+    "id": "bbu-008",
+    "nama": "Buket Bunga - Blush Whisper",
+    "harga": 125000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBu_-_Blush_Whisper_kznjst",
+    "kategori": "Buket Bunga"
+  },
+  {
+    "id": "bbu-009",
+    "nama": "Buket Bunga - Midnight Glow",
+    "harga": 90000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBu_-_Midnight_Glow_jozle7",
+    "kategori": "Buket Bunga"
+  },
+  {
+    "id": "bbu-010",
+    "nama": "Buket Bunga - Pink Blossom",
+    "harga": 125000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBu_-_Pink_Blossom_egt650",
+    "kategori": "Buket Bunga"
+  },
+  {
+    "id": "bbu-011",
+    "nama": "Buket Bunga - Daisy Wonder",
+    "harga": 70000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBu_-_Daisy_Wonder_eua42g",
+    "kategori": "Buket Bunga"
+  },
+  {
+    "id": "bbu-012",
+    "nama": "Buket Bunga - Moonlight Glow",
+    "harga": 50000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBu_-_Moonlight_Glow_jyfsrv",
+    "kategori": "Buket Bunga"
+  },
+  {
+    "id": "bbu-013",
+    "nama": "Buket Bunga - Cotton Delight",
+    "harga": 50000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBu_-_Cotton_Delight_c6inco",
+    "kategori": "Buket Bunga"
+  },
+  {
+    "id": "bbu-014",
+    "nama": "Buket Bunga - Pink Desire",
+    "harga": 120000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBu_-_Pink_Desire_bc6pn5",
+    "kategori": "Buket Bunga"
+  },
+  {
+    "id": "bbu-015",
+    "nama": "Buket Bunga - Peach Essence",
+    "harga": 50000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBu_-_Peach_Essence_vdwnmj",
+    "kategori": "Buket Bunga"
+  },
+  {
+    "id": "bbu-016",
+    "nama": "Buket Bunga - Coraline Dream",
+    "harga": 50000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBu_-_Coraline_Dream_ukp6m1",
+    "kategori": "Buket Bunga"
+  },
+  {
+    "id": "bbu-017",
+    "nama": "Buket Bunga - Ruby Charm",
+    "harga": 50000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBu_-_Ruby_Charm_nizlds",
+    "kategori": "Buket Bunga"
+  },
+  {
+    "id": "bbo-001",
+    "nama": "Buket Boneka - Black Melody",
+    "harga": 85000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBo_-_Black_Melody_nevicf",
+    "kategori": "Buket Boneka"
+  },
+  {
+    "id": "bbo-002",
+    "nama": "Buket Boneka - Garden Jubilee",
+    "harga": 125000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBo_-_Garden_Jubilee_c5nina",
+    "kategori": "Buket Boneka"
+  },
+  {
+    "id": "bbo-003",
+    "nama": "Buket Boneka - Mocha Bear",
+    "harga": 75000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBo_-_Mocha_Beer_boc3lx",
+    "kategori": "Buket Boneka"
+  },
+  {
+    "id": "bbo-004",
+    "nama": "Buket Boneka - Pink Melody",
+    "harga": 125000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBo_-_Pink_Melody_bubbwg",
+    "kategori": "Buket Boneka"
+  },
+  {
+    "id": "bbo-005",
+    "nama": "Buket Boneka - Sakura Bear",
+    "harga": 75000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBo_-_Sakura_Bear_xwda5f",
+    "kategori": "Buket Boneka"
+  },
+  {
+    "id": "bbo-006",
+    "nama": "Buket Boneka - Ocean Whisper",
+    "harga": 125000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BBo_-_Ocean_Whisper_zownxl",
+    "kategori": "Buket Boneka"
+  },
+  {
+    "id": "bu-001",
+    "nama": "Buket Uang - Cloudy Muse",
+    "harga": 1100000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BU_-_Cloudy_Muse_bxcynv",
+    "kategori": "Buket Uang"
+  },
+  {
+    "id": "bu-002",
+    "nama": "Buket Uang - Sweet Petal",
+    "harga": 170000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BU_-_Sweet_Petal_wqrfv1",
+    "kategori": "Buket Uang"
+  },
+  {
+    "id": "bu-003",
+    "nama": "Buket Uang - Peach Sunrise",
+    "harga": 250000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BU_-_Peach_Sunrise_vb6yhs",
+    "kategori": "Buket Uang"
+  },
+  {
+    "id": "bu-004",
+    "nama": "Buket Uang - Cotton Bliss",
+    "harga": 160000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BU_-_Cotton_Bliss_csuzsc",
+    "kategori": "Buket Uang"
+  },
+  {
+    "id": "bu-005",
+    "nama": "Buket Uang - Royal Tide",
+    "harga": 870000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BU_-_Royal_Tide_v11qzh",
+    "kategori": "Buket Uang"
+  },
+  {
+    "id": "bu-006",
+    "nama": "Buket Uang - Green Desire",
+    "harga": 370000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BU_-_Green_Desire_zs0qgg",
+    "kategori": "Buket Uang"
+  },
+  {
+    "id": "bu-007",
+    "nama": "Buket Uang - Rubyline Wonder",
+    "harga": 150000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BU_-_Rubyline_Wonder_kyluay",
+    "kategori": "Buket Uang"
+  },
+  {
+    "id": "bc-001",
+    "nama": "Buket Coklat - Pink Breeze",
+    "harga": 80000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BC_-_Pink_Breeze_pxhbnb",
+    "kategori": "Buket Makanan"
+  },
+  {
+    "id": "bc-002",
+    "nama": "Buket Coklat - Blue Sky",
+    "harga": 85000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BC_-_Blue_Sky_vbpuno",
+    "kategori": "Buket Makanan"
+  },
+  {
+    "id": "bc-003",
+    "nama": "Buket Coklat - Cherry Muse",
+    "harga": 85000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BC_-_Cherry_Muse_xwac7h",
+    "kategori": "Buket Makanan"
+  },
+  {
+    "id": "bc-004",
+    "nama": "Buket Coklat - Sweet Floral",
+    "harga": 85000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BC_-_Sweet_Floral_knemjb",
+    "kategori": "Buket Makanan"
+  },
+  {
+    "id": "bt-001",
+    "nama": "Thumbelina - Bella",
+    "harga": 75000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BT_-_Bella_dprbjl",
+    "kategori": "Buket Thumbelina"
+  },
+  {
+    "id": "bt-002",
+    "nama": "Thumbelina - Lumerra",
+    "harga": 75000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BT_-_Lumerra_w2mvf5",
+    "kategori": "Buket Thumbelina"
+  },
+  {
+    "id": "bt-003",
+    "nama": "Thumbelina - Florisa",
+    "harga": 75000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BT_-_Florisa_yokofl",
+    "kategori": "Buket Thumbelina"
+  },
+  {
+    "id": "bt-004",
+    "nama": "Thumbelina - Luna",
+    "harga": 75000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BT_-_Luna_jy6yix",
+    "kategori": "Buket Thumbelina"
+  },
+  {
+    "id": "bt-005",
+    "nama": "Thumbelina - Rosseline",
+    "harga": 75000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BT_-_Rosseline_vh96s8",
+    "kategori": "Buket Thumbelina"
+  },
+  {
+    "id": "bt-006",
+    "nama": "Thumbelina - Sunny",
+    "harga": 75000,
+    "foto": "https://res.cloudinary.com/dodc1u1mn/image/upload/f_auto,q_auto/BT_-_Sunny_tu9tue",
+    "kategori": "Buket Thumbelina"
+  }
+]
