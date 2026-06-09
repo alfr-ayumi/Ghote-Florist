@@ -151,11 +151,10 @@
     </div>
   </div>
 
-  <!-- Load sheets.js dulu, baru script halaman ini -->
   <script src="js/sheets.js"></script>
   <script>
     const KATEGORI_ORDER = [
-      "Buket Bunga","Buket Boneka","Buket Uang","Buket Makanan","Buket Thumbelina"
+      "Buket Bunga","Buket Boneka","Buket Uang","Buket Makanan","Buket Thumbelina", "Buket Mini",
     ];
     const WARNA_CARD = ["p1","p2","p3","p4","p5","p6"];
 
@@ -192,7 +191,7 @@
         : semuaProduk.filter(p => p.kategori === kategoriAktif);
 
       if (kategoriAktif === "Semua") {
-        judul.innerHTML = `Katalog <em>Produk</em>`;
+        judul.innerHTML = `Ghote <em>Florist</em>`;
         document.title = "Katalog Produk – Ghote Florist";
       } else {
         const [depan, ...belakang] = kategoriAktif.split(" ");
